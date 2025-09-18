@@ -1,3 +1,3 @@
-# props-paractice by Amir 
+# props-paractice by Amir Majeed
 here i rewise props in react js 
 i rewise the react js for betterment and learning....
